@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -69,7 +69,7 @@
     }
 
     .no:hover {
-      transform: scale(1.1);
+      transform: scale(1.1);.
     }
 
     .heart {
@@ -108,65 +108,6 @@
       border-radius: 20px;
       box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
     }
-
-    .cloud {
-      position: absolute;
-      top: 50px;
-      background: blue;
-      border-radius: 50%;
-      opacity: 0.5;
-      z-index: 0;
-    }
-
-    .cloud::before,
-    .cloud::after {
-      content: '';
-      position: absolute;
-      background: white;
-      border-radius: 50%;
-    }
-
-    .cloud::before {
-      width: 60px;
-      height: 60px;
-      left: -30px;
-      top: 0;
-    }
-
-    .cloud::after {
-      width: 60px;
-      height: 60px;
-      left: 30px;
-      top: 10px;
-    }
-
-    @keyframes moveCloud {
-      0% { left: -200px; }
-      100% { left: 100vw; }
-    }
-
-    .cloud1 {
-      width: 100px;
-      height: 60px;
-      top: 50px;
-      animation: moveCloud 60s linear infinite;
-    }
-
-    .cloud2 {
-      width: 120px;
-      height: 70px;
-      top: 100px;
-      animation: moveCloud 90s linear infinite;
-    }
-
-    .cloud3 {
-      width: 140px;
-      height: 80px;
-      top: 150px;
-      animation: moveCloud 75s linear infinite;
-    }
-  </style>
-</head>
 <body>
   <audio autoplay loop>
     <source src="https://www.bensound.com/bensound-music/bensound-love.mp3" type="audio/mpeg">
