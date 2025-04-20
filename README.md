@@ -113,13 +113,7 @@
     <source src="https://www.bensound.com/bensound-music/bensound-love.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
-
-  <!-- Cartoon Clouds -->
-  <div class="cloud cloud1"></div>
-  <div class="cloud cloud2"></div>
-  <div class="cloud cloud3"></div>
-
-  <!-- Image -->
+ <!-- Image -->
   <div class="image-container">
     <img src="A_digital_photograph_captures_a_young_man_in_his_e.png" alt="Boy holding black rose">
   </div>
@@ -128,7 +122,7 @@
   <h1>Muskan, Will You Be Mine?</h1>
   <p>Muskan, I really like you. Will you be my forever?</p>
   <div class="buttons">
-    <button class="yes" onclick="alert('YAY! Muskan said YES!')">Yes</button>
+    <button class="yes" onclick="alert('YAY! Muskan said YES! simle face')">Yes</button>
     <button class="no" onclick="alert('No? I’ll keep trying, Muskan!')">No</button>
   </div>
 
