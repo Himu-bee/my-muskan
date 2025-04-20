@@ -112,7 +112,7 @@
     .cloud {
       position: absolute;
       top: 50px;
-      background: white;
+      background: blue;
       border-radius: 50%;
       opacity: 0.5;
       z-index: 0;
