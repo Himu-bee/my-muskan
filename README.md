@@ -178,11 +178,6 @@
   <div class="cloud cloud2"></div>
   <div class="cloud cloud3"></div>
 
-  <!-- Image -->
-  <div class="image-container">
-    <img src="A_digital_photograph_captures_a_young_man_in_his_e.png" alt="Boy holding black rose">
-  </div>
-
   <div class="heart">❤</div>
   <h1>Muskan, Will You Be Mine?</h1>
   <p>Muskan, I really like you. Will you be my forever?</p>
