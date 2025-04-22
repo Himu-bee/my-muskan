@@ -64,4 +64,4 @@ button:hover {
 }
 document.getElementById('crushButton').addEventListener('click', function() {
     document.getElementById('message').classList.toggle('hidden');
-});
+}); 
